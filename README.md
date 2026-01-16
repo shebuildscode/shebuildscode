@@ -35,6 +35,8 @@ I believe in building applications from scratch to make sure I understand the lo
 
 ## 🌟 Featured Projects
 
+**_🖥️ Note: These projects are currently optimized for desktop view. Mobile responsiveness is planned for future updates._**
+
 - [**🎵 Music Player**](https://shebuildscode.github.io/music-player/) - Custom music player with shuffle, repeat, and dynamic playlist management. Features shuffle algorithm with bidirectional history navigation—allowing prev/next to work seamlessly in random mode.
 
   _**[🚀 Live demo](https://shebuildscode.github.io/music-player/) • [💻 Source Code](https://github.com/shebuildscode/music-player)**_
