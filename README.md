@@ -37,33 +37,33 @@ I believe in building applications from scratch to make sure I understand the lo
 
 - [**🎵 Music Player**](https://shebuildscode.github.io/music-player/) - Custom music player with shuffle, repeat, and dynamic playlist management. Features shuffle algorithm with bidirectional history navigation—allowing prev/next to work seamlessly in random mode.
 
-  **Tech:** JavaScript • Jamendo API • HTML5 Audio API
-
   _**[🚀 Live demo](https://shebuildscode.github.io/music-player/) • [💻 Source Code](https://github.com/shebuildscode/music-player)**_
+
+  **Tech:** JavaScript • Jamendo API • HTML5 Audio API
 
 - [**🌤️ Weather Forecast App**](https://shebuildscode.github.io/weather-app/) - Dual-page weather application with automatic geolocation, 14-day forecast, and detailed hourly breakdowns. Implements complex state management with separate pagination for daily/hourly views.
 
-  **Tech:** JavaScript • WeatherAPI • Geolocation API
-
   _**[🚀 Live demo](https://shebuildscode.github.io/weather-app/) • [💻 Source Code](https://github.com/shebuildscode/weather-app)**_
+
+  **Tech:** JavaScript • WeatherAPI • Geolocation API
 
 - [**✅ Todo List**](https://shebuildscode.github.io/todo-list/) - Task management app with full CRUD operations, filtering (All/Done/Undone), priority reordering, and LocalStorage persistence. Features inline editing with keyboard shortcuts.
 
-  **Tech:** JavaScript • LocalStorage API
-
   _**[🚀 Live demo](https://shebuildscode.github.io/todo-list/) • [💻 Source Code](https://github.com/shebuildscode/todo-list)**_
+
+  **Tech:** JavaScript • LocalStorage API
 
 - [**🧮 Calculator**](https://shebuildscode.github.io/calculator/) - Functional calculator with keyboard support, custom input validation, and square root functionality. Implements dual-string system for display vs. computation values.
 
-  **Tech:** JavaScript • Custom logic
-
   _**[🚀 Live demo](https://shebuildscode.github.io/calculator/) • [💻 Source Code](https://github.com/shebuildscode/calculator)**_
+
+  **Tech:** JavaScript • Custom logic
 
 - [**⏰ Digital Clock & Countdown**](https://shebuildscode.github.io/clock-timer/) - Real-time clock with New Year countdown timer. Features dynamic time calculations, interval management, and conditional UI rendering.
 
-  **Tech:** JavaScript • Date API
-
   _**[🚀 Live demo](https://shebuildscode.github.io/clock-timer/) • [💻 Source Code](https://github.com/shebuildscode/clock-timer)**_
+
+  **Tech:** JavaScript • Date API
 
 ## 🛠️ About Projects
 
